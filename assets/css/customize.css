@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.global-navi ul li:nth-child(2) {
+  display: none;
+}
+#header .global-navi a .l6 a {
+  width: auto;
+  display: inline-block;
+  padding: 0;
+}
+
+#transfer {
+  display: none;
+}
+
+#main .recycle-station .accordion-no {
+  padding-left: 0;
+  padding-right: 0;
+}

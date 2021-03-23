@@ -1,0 +1,974 @@
+[
+  {
+    "id": 0,
+    "labelId": 0,
+    "languageId": 0,
+    "label": "水木プロ"
+  },
+  {
+    "id": 1,
+    "labelId": 0,
+    "languageId": 1,
+    "label": "Mizuki Pro"
+  },
+  {
+    "id": 2,
+    "labelId": 1,
+    "languageId": 0,
+    "label": "ごみ分別検索(ひらがなのみで検索)"
+  },
+  {
+    "id": 3,
+    "labelId": 1,
+    "languageId": 1,
+    "label": "Garbage separation search"
+  },
+  {
+    "id": 4,
+    "labelId": 2,
+    "languageId": 0,
+    "label": "検索結果"
+  },
+  {
+    "id": 5,
+    "labelId": 2,
+    "languageId": 1,
+    "label": "Search results&nbsp;&nbsp;"
+  },
+  {
+    "id": 6,
+    "labelId": 3,
+    "languageId": 0,
+    "label": "件"
+  },
+  {
+    "id": 7,
+    "labelId": 3,
+    "languageId": 1,
+    "label": ""
+  },
+  {
+    "id": 8,
+    "labelId": 4,
+    "languageId": 0,
+    "label": "お知らせ機能"
+  },
+  {
+    "id": 9,
+    "labelId": 4,
+    "languageId": 1,
+    "label": "Notification function"
+  },
+  {
+    "id": 10,
+    "labelId": 5,
+    "languageId": 0,
+    "label": ""
+  },
+  {
+    "id": 11,
+    "labelId": 5,
+    "languageId": 1,
+    "label": ""
+  },
+  {
+    "id": 12,
+    "labelId": 6,
+    "languageId": 0,
+    "label": "ごみ分別早見表は<a href=\"./assets/images/00105743-TEesoV.pdf\" target=\"_blank\">コチラ</a>"
+  },
+  {
+    "id": 13,
+    "labelId": 6,
+    "languageId": 1,
+    "label": "<a href=\"./assets/images/00105743-TEesoV.pdf\" target=\"_blank\">Garbage separation chart is this place</a>"
+  },
+  {
+    "id": 14,
+    "labelId": 7,
+    "languageId": 0,
+    "label": "粗大ごみの戸別収集の申込方法"
+  },
+  {
+    "id": 15,
+    "labelId": 7,
+    "languageId": 1,
+    "label": "How to apply for collecting household waste separately"
+  },
+  {
+    "id": 16,
+    "labelId": 8,
+    "languageId": 0,
+    "label": "市の施設への搬入方法"
+  },
+  {
+    "id": 17,
+    "labelId": 8,
+    "languageId": 1,
+    "label": "How to bring in the city facilities"
+  },
+  {
+    "id": 18,
+    "labelId": 9,
+    "languageId": 0,
+    "label": "市で収集・処理しないもの"
+  },
+  {
+    "id": 19,
+    "labelId": 9,
+    "languageId": 1,
+    "label": "Things not collected / processed in the city"
+  },
+  {
+    "id": 20,
+    "labelId": 10,
+    "languageId": 0,
+    "label": "お問い合わせ"
+  },
+  {
+    "id": 21,
+    "labelId": 10,
+    "languageId": 1,
+    "label": "Inquiry"
+  },
+  {
+    "id": 22,
+    "labelId": 11,
+    "languageId": 0,
+    "label": "5374.jpについて"
+  },
+  {
+    "id": 23,
+    "labelId": 11,
+    "languageId": 1,
+    "label": "About 5374.jp"
+  },
+  {
+    "id": 24,
+    "labelId": 12,
+    "languageId": 0,
+    "label": "緊急情報"
+  },
+  {
+    "id": 25,
+    "labelId": 12,
+    "languageId": 1,
+    "label": "Emergency information"
+  },
+  {
+    "id": 26,
+    "labelId": 13,
+    "languageId": 0,
+    "label": "年"
+  },
+  {
+    "id": 27,
+    "labelId": 13,
+    "languageId": 1,
+    "label": "."
+  },
+  {
+    "id": 28,
+    "labelId": 14,
+    "languageId": 0,
+    "label": "月"
+  },
+  {
+    "id": 29,
+    "labelId": 14,
+    "languageId": 1,
+    "label": "."
+  },
+  {
+    "id": 30,
+    "labelId": 15,
+    "languageId": 0,
+    "label": "日"
+  },
+  {
+    "id": 31,
+    "labelId": 15,
+    "languageId": 1,
+    "label": ""
+  },
+  {
+    "id": 32,
+    "labelId": 16,
+    "languageId": 0,
+    "label": "年"
+  },
+  {
+    "id": 33,
+    "labelId": 16,
+    "languageId": 1,
+    "label": "."
+  },
+  {
+    "id": 34,
+    "labelId": 17,
+    "languageId": 0,
+    "label": "月"
+  },
+  {
+    "id": 35,
+    "labelId": 17,
+    "languageId": 1,
+    "label": ""
+  },
+  {
+    "id": 36,
+    "labelId": 18,
+    "languageId": 0,
+    "label": "日"
+  },
+  {
+    "id": 37,
+    "labelId": 18,
+    "languageId": 1,
+    "label": "Sun"
+  },
+  {
+    "id": 38,
+    "labelId": 19,
+    "languageId": 0,
+    "label": "月"
+  },
+  {
+    "id": 39,
+    "labelId": 19,
+    "languageId": 1,
+    "label": "Mon"
+  },
+  {
+    "id": 40,
+    "labelId": 20,
+    "languageId": 0,
+    "label": "火"
+  },
+  {
+    "id": 41,
+    "labelId": 20,
+    "languageId": 1,
+    "label": "Tue"
+  },
+  {
+    "id": 42,
+    "labelId": 21,
+    "languageId": 0,
+    "label": "水"
+  },
+  {
+    "id": 43,
+    "labelId": 21,
+    "languageId": 1,
+    "label": "Wed"
+  },
+  {
+    "id": 44,
+    "labelId": 22,
+    "languageId": 0,
+    "label": "木"
+  },
+  {
+    "id": 45,
+    "labelId": 22,
+    "languageId": 1,
+    "label": "Thu"
+  },
+  {
+    "id": 46,
+    "labelId": 23,
+    "languageId": 0,
+    "label": "金"
+  },
+  {
+    "id": 47,
+    "labelId": 23,
+    "languageId": 1,
+    "label": "Fri"
+  },
+  {
+    "id": 48,
+    "labelId": 24,
+    "languageId": 0,
+    "label": "土"
+  },
+  {
+    "id": 49,
+    "labelId": 24,
+    "languageId": 1,
+    "label": "Sat"
+  },
+  {
+    "id": 50,
+    "labelId": 25,
+    "languageId": 0,
+    "label": "今日"
+  },
+  {
+    "id": 51,
+    "labelId": 25,
+    "languageId": 1,
+    "label": "Today"
+  },
+  {
+    "id": 52,
+    "labelId": 26,
+    "languageId": 0,
+    "label": "隔月第"
+  },
+  {
+    "id": 53,
+    "labelId": 26,
+    "languageId": 1,
+    "label": "Bi-monthly"
+  },
+  {
+    "id": 54,
+    "labelId": 27,
+    "languageId": 0,
+    "label": "第"
+  },
+  {
+    "id": 55,
+    "labelId": 27,
+    "languageId": 1,
+    "label": ""
+  },
+  {
+    "id": 56,
+    "labelId": 28,
+    "languageId": 0,
+    "label": "毎週"
+  },
+  {
+    "id": 57,
+    "labelId": 28,
+    "languageId": 1,
+    "label": "Weekly"
+  },
+  {
+    "id": 58,
+    "labelId": 29,
+    "languageId": 0,
+    "label": "曜日"
+  },
+  {
+    "id": 59,
+    "labelId": 29,
+    "languageId": 1,
+    "label": ""
+  },
+  {
+    "id": 60,
+    "labelId": 30,
+    "languageId": 0,
+    "label": "お知らせ"
+  },
+  {
+    "id": 61,
+    "labelId": 30,
+    "languageId": 1,
+    "label": "Notice"
+  },
+  {
+    "id": 62,
+    "labelId": 31,
+    "languageId": 0,
+    "label": "同じ町内・地区内でも住所によってゴミの収集日が異なる場合があります。<br>詳しくは、環境衛生課(清掃センター)までお問い合わせください。"
+  },
+  {
+    "id": 63,
+    "labelId": 31,
+    "languageId": 1,
+    "label": "The garbage collection date may be different depending on the address even within the same town or district.<br>For details, please contact the Environmental Hygiene Division (Cleaning Center)."
+  },
+  {
+    "id": 64,
+    "labelId": 32,
+    "languageId": 0,
+    "label": "お知らせ機能は"
+  },
+  {
+    "id": 65,
+    "labelId": 32,
+    "languageId": 1,
+    "label": "Notification function&nbsp;"
+  },
+  {
+    "id": 66,
+    "labelId": 33,
+    "languageId": 0,
+    "label": "コチラ"
+  },
+  {
+    "id": 67,
+    "labelId": 33,
+    "languageId": 1,
+    "label": "Click heres"
+  },
+  {
+    "id": 68,
+    "labelId": 34,
+    "languageId": 0,
+    "label": ""
+  },
+  {
+    "id": 69,
+    "labelId": 34,
+    "languageId": 1,
+    "label": ""
+  },
+  {
+    "id": 70,
+    "labelId": 35,
+    "languageId": 0,
+    "label": "◎粗大ごみの有料収集を行っております。<br><br>日　　時：◎毎週水曜日の午後（祝日等は除く）<br>　　　　　◎３月・６月・９月・１２月の第３日曜日<br>　　　　　午前９時～午前１１時３０分<br>申込方法：事前に清掃センターに収集の予約をしてください。<br><br>　申込先：清掃センター<br>電話番号：0859-42-3803"
+  },
+  {
+    "id": 71,
+    "labelId": 35,
+    "languageId": 1,
+    "label": "◎Paid collection of bulky garbage<br><br>Collection Date：◎Every Wednesday (excluding holidays)<br>　　　　　　　　 ◎3rd Sunday in March, June, September, December<br>　　　　　　　　　 9: 00 am - 11: 30 am<br>　 How to apply：Please make a reservation to the cleaning center by telephone in advance.<br><br> Where to apply：Cleaning Center<br>　　　　　Phone：0859-42-3803"
+  },
+  {
+    "id": 72,
+    "labelId": 36,
+    "languageId": 0,
+    "label": "<a href=\"./assets/images/自己搬入について.png\" target=\"_blank\"><img src=\"./assets/images/自己搬入について.png\" alt=\"自己搬入について\"></a>"
+  },
+  {
+    "id": 73,
+    "labelId": 36,
+    "languageId": 1,
+    "label": "<a href=\"./assets/images/自己搬入について.png\" target=\"_blank\"><img src=\"./assets/images/自己搬入について.png\" alt=\"自己搬入について\"></a>"
+  },
+  {
+    "id": 74,
+    "labelId": 37,
+    "languageId": 0,
+    "label": "<a href=\"./assets/images/処理できないごみ等.png\" target=\"_blank\"><img src=\"./assets/images/処理できないごみ等.png\" alt=\"処理できないごみ等\"></a>"
+  },
+  {
+    "id": 75,
+    "labelId": 37,
+    "languageId": 1,
+    "label": "<a href=\"./assets/images/処理できないごみ等.png\" target=\"_blank\"><img src=\"./assets/images/処理できないごみ等.png\" alt=\"処理できないごみ等\"></a>"
+  },
+  {
+    "id": 76,
+    "labelId": 38,
+    "languageId": 0,
+    "label": "お問い合わせは環境衛生課（清掃センター）までお電話お願いします。"
+  },
+  {
+    "id": 77,
+    "labelId": 38,
+    "languageId": 1,
+    "label": "For inquiries, please call the Environmental Sanitation Division (Cleaning Center)."
+  },
+  {
+    "id": 78,
+    "labelId": 39,
+    "languageId": 0,
+    "label": "このアプリについて"
+  },
+  {
+    "id": 79,
+    "labelId": 39,
+    "languageId": 1,
+    "label": "About this application"
+  },
+  {
+    "id": 80,
+    "labelId": 40,
+    "languageId": 0,
+    "label": "こちらのアプリはCode for Kanazawa制作の5374.jpを基に開発しました。<br>コードの扱いは5374.jpアプリと同じくMPLライセンスに則り、どなたでも利用、改変、及び再配布が可能です。"
+  },
+  {
+    "id": 81,
+    "labelId": 40,
+    "languageId": 1,
+    "label": "This application was developed based on 5374.jp of Code for Kanazawa production. <br>Handling of code is 5374.jp As with the application, it is possible to use, modify, and redistribute by anyone according to the MPL license."
+  },
+  {
+    "id": 82,
+    "labelId": 41,
+    "languageId": 0,
+    "label": "Code for Kanazawa"
+  },
+  {
+    "id": 83,
+    "labelId": 41,
+    "languageId": 1,
+    "label": "Code for Kanazawa"
+  },
+  {
+    "id": 84,
+    "labelId": 42,
+    "languageId": 0,
+    "label": "5374(ゴミナシ).jp for Kanazawa(Github)"
+  },
+  {
+    "id": 85,
+    "labelId": 42,
+    "languageId": 1,
+    "label": "5374(Gominashi).jp for Kanazawa(Github)"
+  },
+  {
+    "id": 86,
+    "labelId": 43,
+    "languageId": 0,
+    "label": "閉じる"
+  },
+  {
+    "id": 87,
+    "labelId": 43,
+    "languageId": 1,
+    "label": "Close"
+  },
+  {
+    "id": 88,
+    "labelId": 44,
+    "languageId": 0,
+    "label": "町名・地区を選択"
+  },
+  {
+    "id": 89,
+    "labelId": 44,
+    "languageId": 1,
+    "label": "Select town / district"
+  },
+  {
+    "id": 90,
+    "labelId": 45,
+    "languageId": 0,
+    "label": "エリア区分A/Bを選択"
+  },
+  {
+    "id": 91,
+    "labelId": 45,
+    "languageId": 1,
+    "label": "Select area division A / B"
+  },
+  {
+    "id": 92,
+    "labelId": 46,
+    "languageId": 0,
+    "label": "注意文無し"
+  },
+  {
+    "id": 93,
+    "labelId": 46,
+    "languageId": 1,
+    "label": "No sentenclature"
+  },
+  {
+    "id": 94,
+    "labelId": 47,
+    "languageId": 0,
+    "label": "警告"
+  },
+  {
+    "id": 95,
+    "labelId": 47,
+    "languageId": 1,
+    "label": "Warning"
+  },
+  {
+    "id": 96,
+    "labelId": 48,
+    "languageId": 0,
+    "label": "このアプリケーションはInternet Explorerではご利用いただけません。<br>Windows10をご利用の方はMicrosoft Edgeを、それ以前のWindowsをご利用の方はChrome、またはFireFoxをご利用ください。"
+  },
+  {
+    "id": 97,
+    "labelId": 48,
+    "languageId": 1,
+    "label": "This application is not available in Internet Explorer.<br>Please use Microsoft Edge if you are using Windows 10, Chrome, or FireFox if you are using earlier Windows."
+  },
+  {
+    "id": 98,
+    "labelId": 49,
+    "languageId": 0,
+    "label": "動作保証ブラウザ"
+  },
+  {
+    "id": 99,
+    "labelId": 49,
+    "languageId": 1,
+    "label": "Certification browser"
+  },
+  {
+    "id": 100,
+    "labelId": 50,
+    "languageId": 0,
+    "label": "Microsoft Edge, Chrome, Firefox, Safari, iOS Safari"
+  },
+  {
+    "id": 101,
+    "labelId": 50,
+    "languageId": 1,
+    "label": "Microsoft Edge, Chrome, Firefox, Safari, iOS Safari"
+  },
+  {
+    "id": 102,
+    "labelId": 51,
+    "languageId": 0,
+    "label": "メール配信を希望される方は空メールを送信する際に、送信ボタンが押せない場合は、何かしらの文字を入力してからお試しください。"
+  },
+  {
+    "id": 103,
+    "labelId": 51,
+    "languageId": 1,
+    "label": "If you want to send mail, please send some blank letters if you can not press the send button when sending a blank mail."
+  },
+  {
+    "id": 104,
+    "labelId": 52,
+    "languageId": 0,
+    "label": "現在お知らせはございません。"
+  },
+  {
+    "id": 105,
+    "labelId": 52,
+    "languageId": 1,
+    "label": "There is no notice at present."
+  },
+  {
+    "id": 106,
+    "labelId": 53,
+    "languageId": 0,
+    "label": ""
+  },
+  {
+    "id": 107,
+    "labelId": 53,
+    "languageId": 1,
+    "label": ""
+  },
+  {
+    "id": 108,
+    "labelId": 0,
+    "languageId": 2,
+    "label": "Mizuki chuyên nghiệp"
+  },
+  {
+    "id": 109,
+    "labelId": 1,
+    "languageId": 2,
+    "label": "phân loại rác tìm kiếm (Search chỉ bằng hiragana)"
+  },
+  {
+    "id": 110,
+    "labelId": 2,
+    "languageId": 2,
+    "label": "kết quả tìm kiếm"
+  },
+  {
+    "id": 111,
+    "labelId": 3,
+    "languageId": 2,
+    "label": "Vấn đề"
+  },
+  {
+    "id": 112,
+    "labelId": 4,
+    "languageId": 2,
+    "label": "chức năng thông báo"
+  },
+  {
+    "id": 113,
+    "labelId": 5,
+    "languageId": 2,
+    "label": ""
+  },
+  {
+    "id": 114,
+    "labelId": 6,
+    "languageId": 2,
+    "label": "phân loại rác bảng tham khảo nhanh <a href=\"./assets/images/00105743-TEesoV.pdf\" target=\"_blank\"> đây </a>"
+  },
+  {
+    "id": 115,
+    "labelId": 7,
+    "languageId": 2,
+    "label": "Làm thế nào để áp dụng cho bộ sưu tập door-to-door chất thải cồng kềnh"
+  },
+  {
+    "id": 116,
+    "labelId": 8,
+    "languageId": 2,
+    "label": "Carry-làm thế nào để thành phố của các cơ sở"
+  },
+  {
+    "id": 117,
+    "labelId": 9,
+    "languageId": 2,
+    "label": "Những người không thu thập và xử lý trong thành phố"
+  },
+  {
+    "id": 118,
+    "labelId": 10,
+    "languageId": 2,
+    "label": "Liên hệ chúng tôi"
+  },
+  {
+    "id": 119,
+    "labelId": 11,
+    "languageId": 2,
+    "label": "về 5374.jp"
+  },
+  {
+    "id": 120,
+    "labelId": 12,
+    "languageId": 2,
+    "label": "thông tin khẩn cấp"
+  },
+  {
+    "id": 121,
+    "labelId": 13,
+    "languageId": 2,
+    "label": "Năm"
+  },
+  {
+    "id": 122,
+    "labelId": 14,
+    "languageId": 2,
+    "label": "Mặt trăng"
+  },
+  {
+    "id": 123,
+    "labelId": 15,
+    "languageId": 2,
+    "label": "ngày"
+  },
+  {
+    "id": 124,
+    "labelId": 16,
+    "languageId": 2,
+    "label": "Năm"
+  },
+  {
+    "id": 125,
+    "labelId": 17,
+    "languageId": 2,
+    "label": "Mặt trăng"
+  },
+  {
+    "id": 126,
+    "labelId": 18,
+    "languageId": 2,
+    "label": "ngày"
+  },
+  {
+    "id": 127,
+    "labelId": 19,
+    "languageId": 2,
+    "label": "Mặt trăng"
+  },
+  {
+    "id": 128,
+    "labelId": 20,
+    "languageId": 2,
+    "label": "ngọn lửa"
+  },
+  {
+    "id": 129,
+    "labelId": 21,
+    "languageId": 2,
+    "label": "Nước"
+  },
+  {
+    "id": 130,
+    "labelId": 22,
+    "languageId": 2,
+    "label": "gỗ"
+  },
+  {
+    "id": 131,
+    "labelId": 23,
+    "languageId": 2,
+    "label": "Tiền bạc"
+  },
+  {
+    "id": 132,
+    "labelId": 24,
+    "languageId": 2,
+    "label": "đất"
+  },
+  {
+    "id": 133,
+    "labelId": 25,
+    "languageId": 2,
+    "label": "hôm nay"
+  },
+  {
+    "id": 134,
+    "labelId": 26,
+    "languageId": 2,
+    "label": "hai tháng một lần đầu tiên"
+  },
+  {
+    "id": 135,
+    "labelId": 27,
+    "languageId": 2,
+    "label": "Các"
+  },
+  {
+    "id": 136,
+    "labelId": 28,
+    "languageId": 2,
+    "label": "Mỗi tuần"
+  },
+  {
+    "id": 137,
+    "labelId": 29,
+    "languageId": 2,
+    "label": "Ngày trong tuần"
+  },
+  {
+    "id": 138,
+    "labelId": 30,
+    "languageId": 2,
+    "label": "Để ý"
+  },
+  {
+    "id": 139,
+    "labelId": 31,
+    "languageId": 2,
+    "label": "Bạn cũng có thể thu thập ngày rác khác nhau tùy thuộc vào địa chỉ tại thị trấn cùng trên địa bàn huyện. <br> Để biết thêm thông tin, vui lòng liên hệ Bộ phận y tế môi trường (làm sạch trung tâm)."
+  },
+  {
+    "id": 140,
+    "labelId": 32,
+    "languageId": 2,
+    "label": "Tin tức tính năng"
+  },
+  {
+    "id": 141,
+    "labelId": 33,
+    "languageId": 2,
+    "label": "Đây"
+  },
+  {
+    "id": 142,
+    "labelId": 34,
+    "languageId": 2,
+    "label": ""
+  },
+  {
+    "id": 143,
+    "labelId": 35,
+    "languageId": 2,
+    "label": "◎ chúng tôi đang thực hiện một bộ sưu tập tiền chất thải cồng kềnh. <br> Date and Time: ◎ (trừ ngày lễ công cộng, vv) mỗi thứ tư buổi chiều <br> ◎ tháng Ba, tháng Sáu, tháng chín, tháng thứ ba Chủ Nhật <br> 09:00-11:00 30 phút <br > làm thế nào để áp dụng: xin vui lòng đặt trước thu thập ở trung tâm sạch. <br> ứng dụng: Trung tâm làm sạch <br> số điện thoại: 0859-42-3803"
+  },
+  {
+    "id": 144,
+    "labelId": 36,
+    "languageId": 2,
+    "label": "<a href=\"./assets/images/自己搬入について.png\" target=\"_blank\"><img src=\"./assets/images/自己搬入について.png\" alt=\"自己搬入について\"></a>"
+  },
+  {
+    "id": 145,
+    "labelId": 37,
+    "languageId": 2,
+    "label": "<a href=\"./assets/images/処理できないごみ等.png\" target=\"_blank\"><img src=\"./assets/images/処理できないごみ等.png\" alt=\"処理できないごみ等\"></a>"
+  },
+  {
+    "id": 146,
+    "labelId": 38,
+    "languageId": 2,
+    "label": "Liên hệ với chúng tôi sẽ gọi liên lạc xin vui lòng Môi trường Bộ phận Y tế (trung tâm vệ sinh)."
+  },
+  {
+    "id": 147,
+    "labelId": 39,
+    "languageId": 2,
+    "label": "Về ứng dụng này"
+  },
+  {
+    "id": 148,
+    "labelId": 40,
+    "languageId": 2,
+    "label": "Ứng dụng này được phát triển trên cơ sở của 5374.jp của Bộ luật phục vụ sản xuất Kanazawa. Xử lý <br> code đang phù hợp với giấy phép y hệt MPL và 5374.jp ứng dụng, sử dụng bất cứ ai, thay đổi, và có thể tái phân phối."
+  },
+  {
+    "id": 149,
+    "labelId": 41,
+    "languageId": 2,
+    "label": "Mã cho Kanazawa"
+  },
+  {
+    "id": 150,
+    "labelId": 42,
+    "languageId": 2,
+    "label": "5374 (Gominashi) .jp cho Kanazawa (Github)"
+  },
+  {
+    "id": 151,
+    "labelId": 43,
+    "languageId": 2,
+    "label": "đóng"
+  },
+  {
+    "id": 152,
+    "labelId": 44,
+    "languageId": 2,
+    "label": "Chọn tên thị trấn và huyện"
+  },
+  {
+    "id": 153,
+    "labelId": 45,
+    "languageId": 2,
+    "label": "Chọn phân chia khu vực A / B"
+  },
+  {
+    "id": 154,
+    "labelId": 46,
+    "languageId": 2,
+    "label": "Lưu ý một xu dính túi"
+  },
+  {
+    "id": 155,
+    "labelId": 47,
+    "languageId": 2,
+    "label": "cảnh báo"
+  },
+  {
+    "id": 156,
+    "labelId": 48,
+    "languageId": 2,
+    "label": "Ứng dụng này không có sẵn trong trình duyệt Internet Explorer. <br> các Microsoft Edge Những người sử dụng Windows 10, người sử dụng trước đó của Windows Chrome, hoặc xin vui lòng sử dụng FireFox."
+  },
+  {
+    "id": 157,
+    "labelId": 49,
+    "languageId": 2,
+    "label": "Trình duyệt đảm bảo hoạt động"
+  },
+  {
+    "id": 158,
+    "labelId": 50,
+    "languageId": 2,
+    "label": "Microsoft Edge, Chrome, Firefox, Safari, iOS Safari"
+  },
+  {
+    "id": 159,
+    "labelId": 51,
+    "languageId": 2,
+    "label": "Khi những người muốn chuyển phát thư để gửi một e-mail trống, nếu bạn không nhấn nút gửi, hãy thử sau khi nhập một số loại nhân vật."
+  },
+  {
+    "id": 160,
+    "labelId": 52,
+    "languageId": 2,
+    "label": "Không có thông báo hiện hành."
+  },
+  {
+    "id": 161,
+    "labelId": 53,
+    "languageId": 2,
+    "label": ""
+  }
+]
