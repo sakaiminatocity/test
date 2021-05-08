@@ -291,144 +291,144 @@
     "id": 48,
     "classificationId": 0,
     "languageId": 2,
-    "classificationName": "đốt"
+    "classificationName": "rác cháy"
   },
   {
     "id": 49,
     "classificationId": 1,
     "languageId": 2,
-    "classificationName": "Thiết bị cho các thiết bị nhà 4 mặt hàng"
+    "classificationName": "đối tượng là 4 loại đồ điện gia dụng"
   },
   {
     "id": 50,
     "classificationId": 2,
     "languageId": 2,
-    "classificationName": "Sử dụng giấy \"tông giấy\""
+    "classificationName": "Các loại giấy cũ 「bìa cát tông」"
   },
   {
     "id": 51,
     "classificationId": 3,
     "languageId": 2,
-    "classificationName": "Sử dụng giấy \"tạp chí / tờ rơi\""
+    "classificationName": "Các loại giấy cũ 「Tạp chí・tờ rơi」"
   },
   {
     "id": 52,
     "classificationId": 4,
     "languageId": 2,
-    "classificationName": "Sử dụng giấy \"báo / insert-in tờ rơi\""
+    "classificationName": "Các loại giấy cũ 「báo・tờ rơi」"
   },
   {
     "id": 53,
     "classificationId": 5,
     "languageId": 2,
-    "classificationName": "giấy đã qua sử dụng \"cuốn sách / tạp chí\""
+    "classificationName": "Các loại giấy cũ 「sách・tạp chí」"
   },
   {
     "id": 54,
     "classificationId": 6,
     "languageId": 2,
-    "classificationName": "giấy đã qua sử dụng \"cuốn sách / tạp chí\""
+    "classificationName": "Các loại giấy cũ 「sách・tạp chí」「bìa cát tông」"
   },
   {
     "id": 55,
     "classificationId": 7,
     "languageId": 2,
-    "classificationName": "Tùy thuộc vào chất liệu, với từng loại"
+    "classificationName": "Ứng với loại vật chất sẽ được đưa đến các khu khác nhau"
   },
   {
     "id": 56,
     "classificationId": 8,
     "languageId": 2,
-    "classificationName": "Tùy thuộc vào vật chất cho mỗi thể loại (tùy thuộc vào việc tái chế các thiết bị gia dụng lặt vặt)"
+    "classificationName": "Ứng với loại vật chất sẽ được đưa đến các khu khác nhau"
   },
   {
     "id": 57,
     "classificationId": 9,
     "languageId": 2,
-    "classificationName": "Tôi không thể xử lý nó trong thành phố"
+    "classificationName": "Không thể xử lí ở thành phố được"
   },
   {
     "id": 58,
     "classificationId": 10,
     "languageId": 2,
-    "classificationName": "Resource lon chai chất thải"
+    "classificationName": "Rác tái chế các loại chai lọ,lon"
   },
   {
     "id": 59,
     "classificationId": 11,
     "languageId": 2,
-    "classificationName": "Tuỳ thuộc vào tái chế đồ dùng gia đình nhỏ"
+    "classificationName": "Đói tượng tái chế là đồ điện gia dụng loại nhỏ"
   },
   {
     "id": 60,
     "classificationId": 12,
     "languageId": 2,
-    "classificationName": "lỗ mãng"
+    "classificationName": "Rác loại lớn"
   },
   {
     "id": 61,
     "classificationId": 13,
     "languageId": 2,
-    "classificationName": "Thô (tùy thuộc vào nhà nhỏ thiết bị tái chế)"
+    "classificationName": "Rác loại lớn (Đối tượng tái chế là các đồ điện nhỏ trong gia đình)"
   },
   {
     "id": 62,
     "classificationId": 14,
     "languageId": 2,
-    "classificationName": "Thô (có thể bị gia dụng lặt vặt thiết bị tái chế)"
+    "classificationName": "Rác loại lớn (có trường hợp đối tượng tái chế là các đồ điện nhỏ trong gia đình」"
   },
   {
     "id": 63,
     "classificationId": 15,
     "languageId": 2,
-    "classificationName": "nhựa mềm"
+    "classificationName": "Các loại nhựa mềm"
   },
   {
     "id": 64,
     "classificationId": 16,
     "languageId": 2,
-    "classificationName": "Lãng phí dầu ăn"
+    "classificationName": "Dầu ăn thừa"
   },
   {
     "id": 65,
     "classificationId": 17,
     "languageId": 2,
-    "classificationName": "khay trắng"
+    "classificationName": "Khay đựng đồ ăn màu trắng"
   },
   {
     "id": 66,
     "classificationId": 18,
     "languageId": 2,
-    "classificationName": "Non-bỏng"
+    "classificationName": "Rác không cháy"
   },
   {
     "id": 67,
     "classificationId": 19,
     "languageId": 2,
-    "classificationName": "Không cháy (phụ thuộc vào gia đình nhỏ thiết bị tái chế)"
+    "classificationName": "Rác không cháy(Đồ điện gia dụng có thể tía chế)"
   },
   {
     "id": 68,
     "classificationId": 20,
     "languageId": 2,
-    "classificationName": "Không cháy (có thể bị gia dụng nhỏ tái chế)"
+    "classificationName": "Rác không cháy(Có trường hợp là đồ điện gia dụng có thể tái chế)"
   },
   {
     "id": 69,
     "classificationId": 21,
     "languageId": 2,
-    "classificationName": "Không cháy hoặc thiết bị gia dụng 4 mặt hàng"
+    "classificationName": "Rác không cháy hoặc 4 loại đồ điện gia dụng nhỏ trong gia đình"
   },
   {
     "id": 70,
     "classificationId": 22,
     "languageId": 2,
-    "classificationName": "có hại"
+    "classificationName": "Có hại,rác có hại"
   },
   {
     "id": 71,
     "classificationId": 23,
     "languageId": 2,
-    "classificationName": "Chai thú cưng"
+    "classificationName": "Chai nhựa"
   }
 ]

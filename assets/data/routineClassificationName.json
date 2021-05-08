@@ -75,36 +75,36 @@
     "id": 12,
     "routineClassificationId": 0,
     "languageId": 2,
-    "routineClassificationName": "chất thải dễ cháy"
+    "routineClassificationName": "Rác cháy"
   },
   {
     "id": 13,
     "routineClassificationId": 1,
     "languageId": 2,
-    "routineClassificationName": "thùng rác Nonburnable"
+    "routineClassificationName": "Rác không cháy"
   },
   {
     "id": 14,
     "routineClassificationId": 2,
     "languageId": 2,
-    "routineClassificationName": "chai lon"
+    "routineClassificationName": "Lọ, chai, lon"
   },
   {
     "id": 15,
     "routineClassificationId": 3,
     "languageId": 2,
-    "routineClassificationName": "Chất thải nguy hại"
+    "routineClassificationName": "Rác độc hại"
   },
   {
     "id": 16,
     "routineClassificationId": 4,
     "languageId": 2,
-    "routineClassificationName": "sử dụng giấy"
+    "routineClassificationName": "Các loại giấy cũ"
   },
   {
     "id": 17,
     "routineClassificationId": 5,
     "languageId": 2,
-    "routineClassificationName": "nhựa mềm"
+    "routineClassificationName": "Các loại nhựa dẻo"
   }
 ]

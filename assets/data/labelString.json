@@ -651,313 +651,313 @@
     "id": 108,
     "labelId": 0,
     "languageId": 2,
-    "label": "Mizuki chuyên nghiệp"
+    "label": "Mizuki pro"
   },
   {
     "id": 109,
     "labelId": 1,
     "languageId": 2,
-    "label": "phân loại rác tìm kiếm (Search chỉ bằng hiragana)"
+    "label": "Tìm kiếm phân loại rác"
   },
   {
     "id": 110,
     "labelId": 2,
     "languageId": 2,
-    "label": "kết quả tìm kiếm"
+    "label": "Kết quả tìm kiếm"
   },
   {
     "id": 111,
     "labelId": 3,
     "languageId": 2,
-    "label": "Vấn đề"
+    "label": "Vấn đề,sự kiện,trường hợp"
   },
   {
     "id": 112,
     "labelId": 4,
     "languageId": 2,
-    "label": "chức năng thông báo"
+    "label": "Chức năng thông báo"
   },
   {
     "id": 113,
     "labelId": 5,
     "languageId": 2,
-    "label": ""
+    "label": "Biểu đồ phân loại rác thì ở đây"
   },
   {
     "id": 114,
     "labelId": 6,
     "languageId": 2,
-    "label": "phân loại rác bảng tham khảo nhanh <a href=\"./assets/images/00105743-TEesoV.pdf\" target=\"_blank\"> đây </a>"
+    "label": "Phương pháp đăng kí thu rác cỡ lớn từng nhà"
   },
   {
     "id": 115,
     "labelId": 7,
     "languageId": 2,
-    "label": "Làm thế nào để áp dụng cho bộ sưu tập door-to-door chất thải cồng kềnh"
+    "label": "Phương pháp vận chuyển rác đến nơi thu rác của thành phố"
   },
   {
     "id": 116,
     "labelId": 8,
     "languageId": 2,
-    "label": "Carry-làm thế nào để thành phố của các cơ sở"
+    "label": "Những vật không thu,xử lí được ở thành phố"
   },
   {
     "id": 117,
     "labelId": 9,
     "languageId": 2,
-    "label": "Những người không thu thập và xử lý trong thành phố"
+    "label": "Liên hệ,hỏi đáp"
   },
   {
     "id": 118,
     "labelId": 10,
     "languageId": 2,
-    "label": "Liên hệ chúng tôi"
+    "label": "Về App  xử lí rác 5374.jp"
   },
   {
     "id": 119,
     "labelId": 11,
     "languageId": 2,
-    "label": "về 5374.jp"
+    "label": "Thông tin khẩn cấp"
   },
   {
     "id": 120,
     "labelId": 12,
     "languageId": 2,
-    "label": "thông tin khẩn cấp"
+    "label": "Năm"
   },
   {
     "id": 121,
     "labelId": 13,
     "languageId": 2,
-    "label": "Năm"
+    "label": "Tháng"
   },
   {
     "id": 122,
     "labelId": 14,
     "languageId": 2,
-    "label": "Mặt trăng"
+    "label": "Ngày"
   },
   {
     "id": 123,
     "labelId": 15,
     "languageId": 2,
-    "label": "ngày"
+    "label": "Năm"
   },
   {
     "id": 124,
     "labelId": 16,
     "languageId": 2,
-    "label": "Năm"
+    "label": "Tháng"
   },
   {
     "id": 125,
     "labelId": 17,
     "languageId": 2,
-    "label": "Mặt trăng"
+    "label": "Ngày"
   },
   {
     "id": 126,
     "labelId": 18,
     "languageId": 2,
-    "label": "ngày"
+    "label": "Thứ 2"
   },
   {
     "id": 127,
     "labelId": 19,
     "languageId": 2,
-    "label": "Mặt trăng"
+    "label": "Thứ 3"
   },
   {
     "id": 128,
     "labelId": 20,
     "languageId": 2,
-    "label": "ngọn lửa"
+    "label": "Thứ 4"
   },
   {
     "id": 129,
     "labelId": 21,
     "languageId": 2,
-    "label": "Nước"
+    "label": "Thứ 5"
   },
   {
     "id": 130,
     "labelId": 22,
     "languageId": 2,
-    "label": "gỗ"
+    "label": "Thứ 6"
   },
   {
     "id": 131,
     "labelId": 23,
     "languageId": 2,
-    "label": "Tiền bạc"
+    "label": "Thứ 7"
   },
   {
     "id": 132,
     "labelId": 24,
     "languageId": 2,
-    "label": "đất"
+    "label": "Hôm nay"
   },
   {
     "id": 133,
     "labelId": 25,
     "languageId": 2,
-    "label": "hôm nay"
+    "label": "Cách tháng vào tuần thứ ..."
   },
   {
     "id": 134,
     "labelId": 26,
     "languageId": 2,
-    "label": "hai tháng một lần đầu tiên"
+    "label": "Tuần thứ..."
   },
   {
     "id": 135,
     "labelId": 27,
     "languageId": 2,
-    "label": "Các"
+    "label": "Mỗi tuần"
   },
   {
     "id": 136,
     "labelId": 28,
     "languageId": 2,
-    "label": "Mỗi tuần"
+    "label": "Thứ..."
   },
   {
     "id": 137,
     "labelId": 29,
     "languageId": 2,
-    "label": "Ngày trong tuần"
+    "label": "Thông báo"
   },
   {
     "id": 138,
     "labelId": 30,
     "languageId": 2,
-    "label": "Để ý"
+    "label": "Dù cùng khu vưc nhưng cũng có trường hợp ngày thu rác khác nhau theo nơi sống"
   },
   {
     "id": 139,
     "labelId": 31,
     "languageId": 2,
-    "label": "Bạn cũng có thể thu thập ngày rác khác nhau tùy thuộc vào địa chỉ tại thị trấn cùng trên địa bàn huyện. <br> Để biết thêm thông tin, vui lòng liên hệ Bộ phận y tế môi trường (làm sạch trung tâm)."
+    "label": "Chức năng thông báo"
   },
   {
     "id": 140,
     "labelId": 32,
     "languageId": 2,
-    "label": "Tin tức tính năng"
+    "label": "Ở đây"
   },
   {
     "id": 141,
     "labelId": 33,
     "languageId": 2,
-    "label": "Đây"
+    "label": "◎Chúng tôi đang tiến hành thu rác loại lớn có mất phí. <br>Ngày giờ:  ◎Buổi chiều thứ 4 mỗi tuần (Trừ các ngày lễ)<br>                 ◎Chủ nhật tuần thứ 3 của Tháng 3・Tháng 6 ・Tháng 9 ・Tháng 12 <br>                    Từ 9 giờ sáng tới 11 giờ 30<br>Phương pháp đăng kí : Hãy đặt cuộc hẹn thu rác với trung tâm dọn rác trước đó<br><br>Nơi đăng kí :Trung tâm dọn rác        Số điện thoại : 0859-42-3803"
   },
   {
     "id": 142,
     "labelId": 34,
     "languageId": 2,
-    "label": ""
+    "label": "Hình ảnh nơi vận chuyển trực tiếp"
   },
   {
     "id": 143,
     "labelId": 35,
     "languageId": 2,
-    "label": "◎ chúng tôi đang thực hiện một bộ sưu tập tiền chất thải cồng kềnh. <br> Date and Time: ◎ (trừ ngày lễ công cộng, vv) mỗi thứ tư buổi chiều <br> ◎ tháng Ba, tháng Sáu, tháng chín, tháng thứ ba Chủ Nhật <br> 09:00-11:00 30 phút <br > làm thế nào để áp dụng: xin vui lòng đặt trước thu thập ở trung tâm sạch. <br> ứng dụng: Trung tâm làm sạch <br> số điện thoại: 0859-42-3803"
+    "label": "Hình ảnh những loại rác không thu được"
   },
   {
     "id": 144,
     "labelId": 36,
     "languageId": 2,
-    "label": "<a href=\"./assets/images/自己搬入について.png\" target=\"_blank\"><img src=\"./assets/images/自己搬入について.png\" alt=\"自己搬入について\"></a>"
+    "label": "Mọi hỏi,thắc mắc xin vui lòng liên lạc đến (trung tâm dọn rác) phòng vệ sinh môi trường"
   },
   {
     "id": 145,
     "labelId": 37,
     "languageId": 2,
-    "label": "<a href=\"./assets/images/処理できないごみ等.png\" target=\"_blank\"><img src=\"./assets/images/処理できないごみ等.png\" alt=\"処理できないごみ等\"></a>"
+    "label": "Về  App này"
   },
   {
     "id": 146,
     "labelId": 38,
     "languageId": 2,
-    "label": "Liên hệ với chúng tôi sẽ gọi liên lạc xin vui lòng Môi trường Bộ phận Y tế (trung tâm vệ sinh)."
+    "label": "App này đã phát triển dựa trên App 5374.jp của việc tạo code for Kanazawa"
   },
   {
     "id": 147,
     "labelId": 39,
     "languageId": 2,
-    "label": "Về ứng dụng này"
+    "label": "code for Kanazawa"
   },
   {
     "id": 148,
     "labelId": 40,
     "languageId": 2,
-    "label": "Ứng dụng này được phát triển trên cơ sở của 5374.jp của Bộ luật phục vụ sản xuất Kanazawa. Xử lý <br> code đang phù hợp với giấy phép y hệt MPL và 5374.jp ứng dụng, sử dụng bất cứ ai, thay đổi, và có thể tái phân phối."
+    "label": "5374(Năm ba bảy bốn).jp for Kanazawa(Github)"
   },
   {
     "id": 149,
     "labelId": 41,
     "languageId": 2,
-    "label": "Mã cho Kanazawa"
+    "label": "Đóng"
   },
   {
     "id": 150,
     "labelId": 42,
     "languageId": 2,
-    "label": "5374 (Gominashi) .jp cho Kanazawa (Github)"
+    "label": "Chọn khu vực・tên phố"
   },
   {
     "id": 151,
     "labelId": 43,
     "languageId": 2,
-    "label": "đóng"
+    "label": "Chọn phân khu khu vực A/B"
   },
   {
     "id": 152,
     "labelId": 44,
     "languageId": 2,
-    "label": "Chọn tên thị trấn và huyện"
+    "label": "Không có đoạn chú ý"
   },
   {
     "id": 153,
     "labelId": 45,
     "languageId": 2,
-    "label": "Chọn phân chia khu vực A / B"
+    "label": "Cảnh báo"
   },
   {
     "id": 154,
     "labelId": 46,
     "languageId": 2,
-    "label": "Lưu ý một xu dính túi"
+    "label": "App này không thể sử dụng được bằng Internet Explorer.\nDùng Win 10 thì hãy sử dụng Microsoft Edge, Win cũ hơn hãy sử dụng Chrome hoặc FireFox."
   },
   {
     "id": 155,
     "labelId": 47,
     "languageId": 2,
-    "label": "cảnh báo"
+    "label": "Trình duyệt đảm bảo hoạt động"
   },
   {
     "id": 156,
     "labelId": 48,
     "languageId": 2,
-    "label": "Ứng dụng này không có sẵn trong trình duyệt Internet Explorer. <br> các Microsoft Edge Những người sử dụng Windows 10, người sử dụng trước đó của Windows Chrome, hoặc xin vui lòng sử dụng FireFox."
+    "label": ""
   },
   {
     "id": 157,
     "labelId": 49,
     "languageId": 2,
-    "label": "Trình duyệt đảm bảo hoạt động"
+    "label": "Người muốn gửi tin trong trường hợp nút gửi tin không thể ấn được khi mà gửi tin\n trống thì hãy thử nhập bất kì chữ nào vào rồi gửi thử xem."
   },
   {
     "id": 158,
     "labelId": 50,
     "languageId": 2,
-    "label": "Microsoft Edge, Chrome, Firefox, Safari, iOS Safari"
+    "label": "Hiện tại thông báo không có"
   },
   {
     "id": 159,
     "labelId": 51,
     "languageId": 2,
-    "label": "Khi những người muốn chuyển phát thư để gửi một e-mail trống, nếu bạn không nhấn nút gửi, hãy thử sau khi nhập một số loại nhân vật."
+    "label": "Biểu đồ phân loại rác thì ở đây\nKết nối với trang web của thành phố Sakaiminato.Nhấn chuột vào biểu đồ phân loại rác"
   },
   {
     "id": 160,

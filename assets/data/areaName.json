@@ -1827,823 +1827,823 @@
     "id": 360,
     "areaId": 0,
     "languageId": 2,
-    "areaName": "Fukusada-cho"
+    "areaName": "Phố Fukusada"
   },
   {
     "id": 361,
     "areaId": 1,
     "languageId": 2,
-    "areaName": "Takenouchi housing complex"
+    "areaName": "Khu chung cư Takenouchi"
   },
   {
     "id": 362,
     "areaId": 2,
     "languageId": 2,
-    "areaName": "Kofukai"
+    "areaName": "Khu dân cư Kofu"
   },
   {
     "id": 363,
     "areaId": 3,
     "languageId": 2,
-    "areaName": "Shokakai"
+    "areaName": "Khu dân cư Shoka"
   },
   {
     "id": 364,
     "areaId": 4,
     "languageId": 2,
-    "areaName": "Nyuchokai"
+    "areaName": "Khu dân cư Nyuchou"
   },
   {
     "id": 365,
     "areaId": 5,
     "languageId": 2,
-    "areaName": "Shinonomekai"
+    "areaName": "Khu dân cư Shinonome"
   },
   {
     "id": 366,
     "areaId": 6,
     "languageId": 2,
-    "areaName": "Higashihonmachikai"
+    "areaName": "Khu dân cư Higashimotomachi"
   },
   {
     "id": 367,
     "areaId": 7,
     "languageId": 2,
-    "areaName": "Showamachi"
+    "areaName": "Phố Showa"
   },
   {
     "id": 368,
     "areaId": 8,
     "languageId": 2,
-    "areaName": "Agarimichi-cho 8th district"
+    "areaName": "Khu 8 phố Agarimichi"
   },
   {
     "id": 369,
     "areaId": 9,
     "languageId": 2,
-    "areaName": "Takenouchi-cho"
+    "areaName": "Phố Takeuchi"
   },
   {
     "id": 370,
     "areaId": 10,
     "languageId": 2,
-    "areaName": "Motomachi"
+    "areaName": "Phố Motomachi"
   },
   {
     "id": 371,
     "areaId": 11,
     "languageId": 2,
-    "areaName": "Minatomachikai"
+    "areaName": "Khu dân cư Minato"
   },
   {
     "id": 372,
     "areaId": 12,
     "languageId": 2,
-    "areaName": "Minatomachikai A"
+    "areaName": "Khu dân cư Meijicho"
   },
   {
     "id": 373,
     "areaId": 13,
     "languageId": 2,
-    "areaName": "Minatomachikai B"
+    "areaName": "Khu dân cư Shikiyacho"
   },
   {
     "id": 374,
     "areaId": 14,
     "languageId": 2,
-    "areaName": "Meijimachikai"
+    "areaName": "Khu dân cư Kyomachi"
   },
   {
     "id": 375,
     "areaId": 15,
     "languageId": 2,
-    "areaName": "Shinkyomachikai"
+    "areaName": "Khu dân cư Babasakicho"
   },
   {
     "id": 376,
     "areaId": 16,
     "languageId": 2,
-    "areaName": "Kyomachikai"
+    "areaName": "Khu dân cư Babasakicho A"
   },
   {
     "id": 377,
     "areaId": 17,
     "languageId": 2,
-    "areaName": "Babasakichokai"
+    "areaName": "Khu dân cư Babasakicho B"
   },
   {
     "id": 378,
     "areaId": 18,
     "languageId": 2,
-    "areaName": "Babasakichokai A"
+    "areaName": "Khu dân cư Nishibabasakicho"
   },
   {
     "id": 379,
     "areaId": 19,
     "languageId": 2,
-    "areaName": "Babasakichokai B"
+    "areaName": "Phố Nakano"
   },
   {
     "id": 380,
     "areaId": 20,
     "languageId": 2,
-    "areaName": "Nishibabasakichokai"
+    "areaName": "Khu 1 Phố Agarimichi"
   },
   {
     "id": 381,
     "areaId": 21,
     "languageId": 2,
-    "areaName": "Nakano-cho"
+    "areaName": "Khu 1A Phố Agarimichi"
   },
   {
     "id": 382,
     "areaId": 22,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 1"
+    "areaName": "Khu 1B Phố Agarimichi"
   },
   {
     "id": 383,
     "areaId": 23,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 1 A"
+    "areaName": "Khu 2 Phố Agarimichi"
   },
   {
     "id": 384,
     "areaId": 24,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 1 B"
+    "areaName": "Khu 2A  Phố Agarimichi"
   },
   {
     "id": 385,
     "areaId": 25,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 2"
+    "areaName": "Khu 2B  Phố Agarimichi"
   },
   {
     "id": 386,
     "areaId": 26,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 2 A"
+    "areaName": "Khu 3 Phố Agarimichi"
   },
   {
     "id": 387,
     "areaId": 27,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 2 B"
+    "areaName": "Khu 3A  Phố Agarimichi"
   },
   {
     "id": 388,
     "areaId": 28,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 3"
+    "areaName": "Khu 3B  Phố Agarimichi"
   },
   {
     "id": 389,
     "areaId": 29,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 3 A"
+    "areaName": "Khu 4 Phố Agarimichi"
   },
   {
     "id": 390,
     "areaId": 30,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 3 B"
+    "areaName": "Khu 4A  Phố Agarimichi"
   },
   {
     "id": 391,
     "areaId": 31,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 4"
+    "areaName": "Khu 4B  Phố Agarimichi"
   },
   {
     "id": 392,
     "areaId": 32,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 4 A"
+    "areaName": "Khu 5 Phố Agarimichi"
   },
   {
     "id": 393,
     "areaId": 33,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 4 B"
+    "areaName": "Khu 5A  Phố Agarimichi"
   },
   {
     "id": 394,
     "areaId": 34,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 5"
+    "areaName": "Khu 5B  Phố Agarimichi"
   },
   {
     "id": 395,
     "areaId": 35,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 5 A"
+    "areaName": "Khu 6 Phố Agarimichi"
   },
   {
     "id": 396,
     "areaId": 36,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 5 B"
+    "areaName": "Khu 6A  Phố Agarimichi"
   },
   {
     "id": 397,
     "areaId": 37,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 6"
+    "areaName": "Khu 6B  Phố Agarimichi"
   },
   {
     "id": 398,
     "areaId": 38,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 6 A"
+    "areaName": "Khu 7 Phố Agarimichi"
   },
   {
     "id": 399,
     "areaId": 39,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 6 B"
+    "areaName": "Khu 7A  Phố Agarimichi"
   },
   {
     "id": 400,
     "areaId": 40,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 7"
+    "areaName": "Khu 7B  Phố Agarimichi"
   },
   {
     "id": 401,
     "areaId": 41,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 7 A"
+    "areaName": "Cư xá tự vệ quân"
   },
   {
     "id": 402,
     "areaId": 42,
     "languageId": 2,
-    "areaName": "Agarimichi-cho District 7 B"
+    "areaName": "Phố Sangenyacho"
   },
   {
     "id": 403,
     "areaId": 43,
     "languageId": 2,
-    "areaName": "The official residence of Self-Defense Forces"
+    "areaName": "Phố Morioka"
   },
   {
     "id": 404,
     "areaId": 44,
     "languageId": 2,
-    "areaName": "Sangenya-cho"
+    "areaName": "Khu 9 phố Watari"
   },
   {
     "id": 405,
     "areaId": 45,
     "languageId": 2,
-    "areaName": "Morioka-cho"
+    "areaName": "Khu 10 phố Watari"
   },
   {
     "id": 406,
     "areaId": 46,
     "languageId": 2,
-    "areaName": "Shiba-cho"
+    "areaName": "Phố Shiba"
   },
   {
     "id": 407,
     "areaId": 47,
     "languageId": 2,
-    "areaName": "Shiba-cho A"
+    "areaName": "Khu A phố Shiba"
   },
   {
     "id": 408,
     "areaId": 48,
     "languageId": 2,
-    "areaName": "Shiba-cho B"
+    "areaName": "Khu B phố Shiba"
   },
   {
     "id": 409,
     "areaId": 49,
     "languageId": 2,
-    "areaName": "Yuhigaoka 1st Street"
+    "areaName": "Khu phố 1 Yuhigaoka"
   },
   {
     "id": 410,
     "areaId": 50,
     "languageId": 2,
-    "areaName": "Koujin-cho"
+    "areaName": "Phố Kojin"
   },
   {
     "id": 411,
     "areaId": 51,
     "languageId": 2,
-    "areaName": "Sainokami-cho"
+    "areaName": "Phố Sainokami"
   },
   {
     "id": 412,
     "areaId": 52,
     "languageId": 2,
-    "areaName": "Self-Defense Forces"
+    "areaName": "Tự vệ quân"
   },
   {
     "id": 413,
     "areaId": 54,
     "languageId": 2,
-    "areaName": "Mugikaki-cho"
+    "areaName": "Khu 11 phố Tonoe"
   },
   {
     "id": 414,
     "areaId": 55,
     "languageId": 2,
-    "areaName": "Niiya-cho"
+    "areaName": "Phố Mugikaki"
   },
   {
     "id": 415,
     "areaId": 83,
     "languageId": 2,
-    "areaName": "Sainoki-cho"
+    "areaName": "Phố Niiya"
   },
   {
     "id": 416,
     "areaId": 84,
     "languageId": 2,
-    "areaName": "Koshinodu-cho"
+    "areaName": "Khu 3 phố Tonoe"
   },
   {
     "id": 417,
     "areaId": 85,
     "languageId": 2,
-    "areaName": "Koshinodu-cho A"
+    "areaName": "Khu 3A phố Tonoe"
   },
   {
     "id": 418,
     "areaId": 86,
     "languageId": 2,
-    "areaName": "Koshinodu-cho B"
+    "areaName": "Khu 3B phố Tonoe"
   },
   {
     "id": 419,
     "areaId": 87,
     "languageId": 2,
-    "areaName": "Watari-cho District 7"
+    "areaName": "Khu 4 phố Tonoe"
   },
   {
     "id": 420,
     "areaId": 88,
     "languageId": 2,
-    "areaName": "Watari-cho District 7 A"
+    "areaName": "Khu 4A phố Tonoe"
   },
   {
     "id": 421,
     "areaId": 89,
     "languageId": 2,
-    "areaName": "Watari-cho District 7 B"
+    "areaName": "Khu 4B phố Tonoe"
   },
   {
     "id": 422,
     "areaId": 90,
     "languageId": 2,
-    "areaName": "Watari-cho District 8"
+    "areaName": "Khu 5 phố Tonoe"
   },
   {
     "id": 423,
     "areaId": 91,
     "languageId": 2,
-    "areaName": "Watari-cho District 8 A"
+    "areaName": "Khu 5A phố Tonoe"
   },
   {
     "id": 424,
     "areaId": 92,
     "languageId": 2,
-    "areaName": "Watari-cho District 8 B"
+    "areaName": "Khu 5B phố Tonoe"
   },
   {
     "id": 425,
     "areaId": 93,
     "languageId": 2,
-    "areaName": "Watari-cho District 16"
+    "areaName": "Khu 6 phố Tonoe"
   },
   {
     "id": 426,
     "areaId": 94,
     "languageId": 2,
-    "areaName": "Watari-cho District 16 A"
+    "areaName": "Khu 6A phố Tonoe"
   },
   {
     "id": 427,
     "areaId": 95,
     "languageId": 2,
-    "areaName": "Watari-cho District 16 B"
+    "areaName": "Khu 6B phố Tonoe"
   },
   {
     "id": 428,
     "areaId": 96,
     "languageId": 2,
-    "areaName": "Watari-cho District 19"
+    "areaName": "Khu 7 phố Tonoe"
   },
   {
     "id": 429,
     "areaId": 97,
     "languageId": 2,
-    "areaName": "Watari-cho District 19 A"
+    "areaName": "Khu 7A phố Tonoe"
   },
   {
     "id": 430,
     "areaId": 98,
     "languageId": 2,
-    "areaName": "Watari-cho District 19 B"
+    "areaName": "Khu 7B phố Tonoe"
   },
   {
     "id": 431,
     "areaId": 99,
     "languageId": 2,
-    "areaName": "Watari-cho District 3"
+    "areaName": "Khu 8 phố Tonoe"
   },
   {
     "id": 432,
     "areaId": 100,
     "languageId": 2,
-    "areaName": "Watari-cho District 3 A"
+    "areaName": "Khu 8A phố Tonoe"
   },
   {
     "id": 433,
     "areaId": 101,
     "languageId": 2,
-    "areaName": "Watari-cho District 3 B"
+    "areaName": "Khu 8B phố Tonoe"
   },
   {
     "id": 434,
     "areaId": 102,
     "languageId": 2,
-    "areaName": "Watari-cho District 4"
+    "areaName": "Khu 9 phố Tonoe"
   },
   {
     "id": 435,
     "areaId": 103,
     "languageId": 2,
-    "areaName": "Watari-cho District 4 A"
+    "areaName": "Khu 9A phố Tonoe"
   },
   {
     "id": 436,
     "areaId": 104,
     "languageId": 2,
-    "areaName": "Watari-cho District 4 B"
+    "areaName": "Khu 9B phố Tonoe"
   },
   {
     "id": 437,
     "areaId": 105,
     "languageId": 2,
-    "areaName": "Watari-cho District 5"
+    "areaName": "Khu 10 phố Tonoe"
   },
   {
     "id": 438,
     "areaId": 106,
     "languageId": 2,
-    "areaName": "Watari-cho District 5 A"
+    "areaName": "Khu 10A phố Tonoe"
   },
   {
     "id": 439,
     "areaId": 107,
     "languageId": 2,
-    "areaName": "Watari-cho District 5 B"
+    "areaName": "Khu 10B phố Tonoe"
   },
   {
     "id": 440,
     "areaId": 108,
     "languageId": 2,
-    "areaName": "Watari-cho District 6"
+    "areaName": "Khu 12 phố Tonoe"
   },
   {
     "id": 441,
     "areaId": 109,
     "languageId": 2,
-    "areaName": "Watari-cho District 6 A"
+    "areaName": "Khu 12A phố Tonoe"
   },
   {
     "id": 442,
     "areaId": 110,
     "languageId": 2,
-    "areaName": "Watari-cho District 6 B"
+    "areaName": "Khu 12B phố Tonoe"
   },
   {
     "id": 443,
     "areaId": 111,
     "languageId": 2,
-    "areaName": "Watari-cho District 14"
+    "areaName": "Phố Sainoki"
   },
   {
     "id": 444,
     "areaId": 112,
     "languageId": 2,
-    "areaName": "Watari-cho District 14 A"
+    "areaName": "Phố Koshinozu"
   },
   {
     "id": 445,
     "areaId": 113,
     "languageId": 2,
-    "areaName": "Watari-cho District 14 B"
+    "areaName": "Khu 7 phố Watari"
   },
   {
     "id": 446,
     "areaId": 114,
     "languageId": 2,
-    "areaName": "Watari-cho District 15"
+    "areaName": "Khu 8 phố Watari"
   },
   {
     "id": 447,
     "areaId": 115,
     "languageId": 2,
-    "areaName": "Watari-cho District 15 A"
+    "areaName": "Khu 16 phố Watari"
   },
   {
     "id": 448,
     "areaId": 116,
     "languageId": 2,
-    "areaName": "Watari-cho District 15 B"
+    "areaName": "Khu 19 phố Watari"
   },
   {
     "id": 449,
     "areaId": 117,
     "languageId": 2,
-    "areaName": "Watari-cho District 1"
+    "areaName": "Khu 3 phố Watari"
   },
   {
     "id": 450,
     "areaId": 118,
     "languageId": 2,
-    "areaName": "Watari-cho District 1 A"
+    "areaName": "Khu 3A phố Watari"
   },
   {
     "id": 451,
     "areaId": 119,
     "languageId": 2,
-    "areaName": "Watari-cho District 1 B"
+    "areaName": "Khu 3B phố Watari"
   },
   {
     "id": 452,
     "areaId": 120,
     "languageId": 2,
-    "areaName": "Watari-cho District 2"
+    "areaName": "Khu 4 phố Watari"
   },
   {
     "id": 453,
     "areaId": 121,
     "languageId": 2,
-    "areaName": "Watari-cho District 2 A"
+    "areaName": "Khu 5 phố Watari"
   },
   {
     "id": 454,
     "areaId": 122,
     "languageId": 2,
-    "areaName": "Watari-cho District 2 B"
+    "areaName": "Khu 6 phố Watari"
   },
   {
     "id": 455,
     "areaId": 123,
     "languageId": 2,
-    "areaName": "Watari-cho District 11"
+    "areaName": "Khu 14 phố Watari"
   },
   {
     "id": 456,
     "areaId": 124,
     "languageId": 2,
-    "areaName": "Watari-cho District 18"
+    "areaName": "Khu 15 phố Watari"
   },
   {
     "id": 457,
     "areaId": 125,
     "languageId": 2,
-    "areaName": "Yuhigaoka 2nd Street"
+    "areaName": "Khu 1 phố Watari"
   },
   {
     "id": 458,
     "areaId": 126,
     "languageId": 2,
-    "areaName": "Takamatsu-cho"
+    "areaName": "Khu 2 phố Watari"
   },
   {
     "id": 459,
     "areaId": 127,
     "languageId": 2,
-    "areaName": "Miho-cho"
+    "areaName": "Khu 11 phố Watari"
   },
   {
     "id": 460,
     "areaId": 128,
     "languageId": 2,
-    "areaName": "Hasuike-cho"
+    "areaName": "Khu 18 phố Watari"
   },
   {
     "id": 461,
     "areaId": 129,
     "languageId": 2,
-    "areaName": "Yonegawa-cho"
+    "areaName": "Khu phố 2 Yuhigaoka"
   },
   {
     "id": 462,
     "areaId": 130,
     "languageId": 2,
-    "areaName": "Hamano-cho"
+    "areaName": "Phố Takamatsu"
   },
   {
     "id": 463,
     "areaId": 131,
     "languageId": 2,
-    "areaName": "Yayoi-cho"
+    "areaName": "Phố Miho"
   },
   {
     "id": 464,
     "areaId": 132,
     "languageId": 2,
-    "areaName": "Shimizu-cho"
+    "areaName": "Phố Hasuike"
   },
   {
     "id": 465,
     "areaId": 133,
     "languageId": 2,
-    "areaName": "Shimizu-cho A"
+    "areaName": "Phố Yonekawa"
   },
   {
     "id": 466,
     "areaId": 134,
     "languageId": 2,
-    "areaName": "Shimizu-cho B"
+    "areaName": "Phố Hamano"
   },
   {
     "id": 467,
     "areaId": 135,
     "languageId": 2,
-    "areaName": "Taishomachikai"
+    "areaName": "Phố Yayoi"
   },
   {
     "id": 468,
     "areaId": 136,
     "languageId": 2,
-    "areaName": "Kyowakai"
+    "areaName": "Phố Shimizu"
   },
   {
     "id": 469,
     "areaId": 137,
     "languageId": 2,
-    "areaName": "Honkyomachikai"
+    "areaName": "Khu A phố Shimizu"
   },
   {
     "id": 470,
     "areaId": 138,
     "languageId": 2,
-    "areaName": "Higashikyomachikai"
+    "areaName": "Khu B phố Shimizu"
   },
   {
     "id": 471,
     "areaId": 139,
     "languageId": 2,
-    "areaName": "Seido-cho"
+    "areaName": "Khu dân cư Taishomachi"
   },
   {
     "id": 472,
     "areaId": 140,
     "languageId": 2,
-    "areaName": "Kitahinodekai"
+    "areaName": "Khu dân cư Kyowa"
   },
   {
     "id": 473,
     "areaId": 141,
     "languageId": 2,
-    "areaName": "Nakahinodechokai"
+    "areaName": "Khu dân cư  Suetsuguhonmachi"
   },
   {
     "id": 474,
     "areaId": 142,
     "languageId": 2,
-    "areaName": "Minamihinodechokai"
+    "areaName": "Khu dân cư Tokyo"
   },
   {
     "id": 475,
     "areaId": 143,
     "languageId": 2,
-    "areaName": "Suehirokai"
+    "areaName": "Phố Seido"
   },
   {
     "id": 476,
     "areaId": 144,
     "languageId": 2,
-    "areaName": "Chuseikai"
+    "areaName": "Khu dân cư phía bắc Hinodemachi"
   },
   {
     "id": 477,
     "areaId": 145,
     "languageId": 2,
-    "areaName": "Shindokai"
+    "areaName": "Khu dân cư ở giữa Hinodemachi"
   },
   {
     "id": 478,
     "areaId": 146,
     "languageId": 2,
-    "areaName": "Chusokai"
+    "areaName": "Khu dân cư phía nam Hinodemachi"
   },
   {
     "id": 479,
     "areaId": 147,
     "languageId": 2,
-    "areaName": "Isshinkai"
+    "areaName": "Khu dân cư Suehiro"
   },
   {
     "id": 480,
     "areaId": 148,
     "languageId": 2,
-    "areaName": "Ginzakai"
+    "areaName": "Khu dân cư Chusei"
   },
   {
     "id": 481,
     "areaId": 149,
     "languageId": 2,
-    "areaName": "Asahikai"
+    "areaName": "Khu dân cư Shindo"
   },
   {
     "id": 482,
     "areaId": 150,
     "languageId": 2,
-    "areaName": "Aioikai"
+    "areaName": "Khu dân cư Chuso"
   },
   {
     "id": 483,
     "areaId": 151,
     "languageId": 2,
-    "areaName": "Shinzenkai"
+    "areaName": "Khu dân cư Isshin"
   },
   {
     "id": 484,
     "areaId": 152,
     "languageId": 2,
-    "areaName": "Meikokai"
+    "areaName": "Khu dân cư Ginza"
   },
   {
     "id": 485,
     "areaId": 153,
     "languageId": 2,
-    "areaName": "Meiseikai"
+    "areaName": "Khu dân cư Ashahi"
   },
   {
     "id": 486,
     "areaId": 154,
     "languageId": 2,
-    "areaName": "Aioidoushikai"
+    "areaName": "Khu dân cư Aioi"
   },
   {
     "id": 487,
     "areaId": 155,
     "languageId": 2,
-    "areaName": "Nishiaioikai"
+    "areaName": "Khu dân cư Shinzen"
   },
   {
     "id": 488,
     "areaId": 156,
     "languageId": 2,
-    "areaName": "Suehirokanamekai"
+    "areaName": "Khu dân cư Akihiro"
   },
   {
     "id": 489,
     "areaId": 157,
     "languageId": 2,
-    "areaName": "Honmachikai"
+    "areaName": "Khu dân cư Meisei"
   },
   {
     "id": 490,
     "areaId": 158,
     "languageId": 2,
-    "areaName": "Nishihonmachikai"
+    "areaName": "Khu dân cư Aioidoshi"
   },
   {
     "id": 491,
     "areaId": 159,
     "languageId": 2,
-    "areaName": "Eimachi"
+    "areaName": "Khu dân cư Nishiaioi"
   },
   {
     "id": 492,
     "areaId": 160,
     "languageId": 2,
-    "areaName": "Matsugae-cho"
+    "areaName": "Khu dân cư Suehiro"
   },
   {
     "id": 493,
     "areaId": 161,
     "languageId": 2,
-    "areaName": "Tonoechohigashi Residents' association"
+    "areaName": "Khu dân cư Honmachi"
   },
   {
     "id": 494,
     "areaId": 162,
     "languageId": 2,
-    "areaName": "Shirao Residents' association"
+    "areaName": "Khu dân cư Nishihonmachi"
   },
   {
     "id": 495,
     "areaId": 163,
     "languageId": 2,
-    "areaName": "Shirao Residents' association A"
+    "areaName": "Phố Sakae"
   },
   {
     "id": 496,
     "areaId": 164,
     "languageId": 2,
-    "areaName": "Shirao Residents' association B"
+    "areaName": "Phố Matsugae"
   },
   {
     "id": 497,
