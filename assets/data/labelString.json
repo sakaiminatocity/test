@@ -867,13 +867,13 @@
     "id": 144,
     "labelId": 36,
     "languageId": 2,
-    "label": "Mọi hỏi,thắc mắc xin vui lòng liên lạc đến (trung tâm dọn rác) phòng vệ sinh môi trường"
+    "label": "<a href=\"./assets/images/自己搬入について.png\" target=\"_blank\"><img src=\"./assets/images/自己搬入について.png\" alt=\"自己搬入について\"></a>"
   },
   {
     "id": 145,
     "labelId": 37,
     "languageId": 2,
-    "label": "Về  App này"
+    "label": "<a href=\"./assets/images/処理できないごみ等.png\" target=\"_blank\"><img src=\"./assets/images/処理できないごみ等.png\" alt=\"処理できないごみ等\"></a>"
   },
   {
     "id": 146,
