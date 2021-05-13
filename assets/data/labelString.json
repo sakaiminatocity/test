@@ -957,13 +957,13 @@
     "id": 159,
     "labelId": 51,
     "languageId": 2,
-    "label": "Hiện tại thông báo không có"
+    "label": "Người muốn gửi tin trong trường hợp nút gửi tin không thể ấn được khi mà gửi tin trống thì hãy thử nhập bất kì chữ nào vào rồi gửi thử xem."
   },
   {
     "id": 160,
     "labelId": 52,
     "languageId": 2,
-    "label": "Người muốn gửi tin trong trường hợp nút gửi tin không thể ấn được khi mà gửi tin trống thì hãy thử nhập bất kì chữ nào vào rồi gửi thử xem."
+    "label": "Hiện tại thông báo không có"
   },
   {
     "id": 161,
