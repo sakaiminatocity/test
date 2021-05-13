@@ -225,7 +225,7 @@
     "id": 37,
     "labelId": 18,
     "languageId": 1,
-    "label": "Sun"
+    "label": "Ngày"
   },
   {
     "id": 38,
@@ -681,79 +681,79 @@
     "id": 113,
     "labelId": 5,
     "languageId": 2,
-    "label": "Biểu đồ phân loại rác thì ở đây"
+    "label": ""
   },
   {
     "id": 114,
     "labelId": 6,
     "languageId": 2,
-    "label": "Phương pháp đăng kí thu rác cỡ lớn từng nhà"
+    "label": "<a href=\"./assets/images/00105743-TEesoV.pdf\" target=\"_blank\">Biểu đồ phân loại rác thì ở đây</a>"
   },
   {
     "id": 115,
     "labelId": 7,
     "languageId": 2,
-    "label": "Phương pháp vận chuyển rác đến nơi thu rác của thành phố"
+    "label": "Phương pháp đăng kí thu rác cỡ lớn từng nhà"
   },
   {
     "id": 116,
     "labelId": 8,
     "languageId": 2,
-    "label": "Những vật không thu,xử lí được ở thành phố"
+    "label": "Phương pháp vận chuyển rác đến nơi thu rác của thành phố"
   },
   {
     "id": 117,
     "labelId": 9,
     "languageId": 2,
-    "label": "Liên hệ,hỏi đáp"
+    "label": "Những vật không thu,xử lí được ở thành phố"
   },
   {
     "id": 118,
     "labelId": 10,
     "languageId": 2,
-    "label": "Về App  xử lí rác 5374.jp"
+    "label": "Liên hệ,hỏi đáp"
   },
   {
     "id": 119,
     "labelId": 11,
     "languageId": 2,
-    "label": "Thông tin khẩn cấp"
+    "label": "Về App  xử lí rác 5374.jp"
   },
   {
     "id": 120,
     "labelId": 12,
     "languageId": 2,
-    "label": "Năm"
+    "label": "Thông tin khẩn cấp"
   },
   {
     "id": 121,
     "labelId": 13,
     "languageId": 2,
-    "label": "Tháng"
+    "label": "Năm"
   },
   {
     "id": 122,
     "labelId": 14,
     "languageId": 2,
-    "label": "Ngày"
+    "label": "Tháng"
   },
   {
     "id": 123,
     "labelId": 15,
     "languageId": 2,
-    "label": "Năm"
+    "label": "Ngày"
   },
   {
     "id": 124,
     "labelId": 16,
     "languageId": 2,
-    "label": "Tháng"
+    "label": "Năm"
   },
   {
     "id": 125,
     "labelId": 17,
     "languageId": 2,
-    "label": "Ngày"
+    "label": "Tháng"
   },
   {
     "id": 126,
@@ -765,103 +765,103 @@
     "id": 127,
     "labelId": 19,
     "languageId": 2,
-    "label": "Thứ 3"
+    "label": "Thứ 2"
   },
   {
     "id": 128,
     "labelId": 20,
     "languageId": 2,
-    "label": "Thứ 4"
+    "label": "Thứ 3"
   },
   {
     "id": 129,
     "labelId": 21,
     "languageId": 2,
-    "label": "Thứ 5"
+    "label": "Thứ 4"
   },
   {
     "id": 130,
     "labelId": 22,
     "languageId": 2,
-    "label": "Thứ 6"
+    "label": "Thứ 5"
   },
   {
     "id": 131,
     "labelId": 23,
     "languageId": 2,
-    "label": "Thứ 7"
+    "label": "Thứ 6"
   },
   {
     "id": 132,
     "labelId": 24,
     "languageId": 2,
-    "label": "Hôm nay"
+    "label": "Thứ 7"
   },
   {
     "id": 133,
     "labelId": 25,
     "languageId": 2,
-    "label": "Cách tháng vào tuần thứ ..."
+    "label": "Hôm nay"
   },
   {
     "id": 134,
     "labelId": 26,
     "languageId": 2,
-    "label": "Tuần thứ..."
+    "label": "Cách tháng vào tuần thứ ..."
   },
   {
     "id": 135,
     "labelId": 27,
     "languageId": 2,
-    "label": "Mỗi tuần"
+    "label": "Tuần thứ..."
   },
   {
     "id": 136,
     "labelId": 28,
     "languageId": 2,
-    "label": "Thứ..."
+    "label": "Mỗi tuần"
   },
   {
     "id": 137,
     "labelId": 29,
     "languageId": 2,
-    "label": "Thông báo"
+    "label": "Thứ..."
   },
   {
     "id": 138,
     "labelId": 30,
     "languageId": 2,
-    "label": "Dù cùng khu vưc nhưng cũng có trường hợp ngày thu rác khác nhau theo nơi sống"
+    "label": "Thông báo"
   },
   {
     "id": 139,
     "labelId": 31,
     "languageId": 2,
-    "label": "Chức năng thông báo"
+    "label": "Dù cùng khu vưc nhưng cũng có trường hợp ngày thu rác khác nhau theo nơi sống"
   },
   {
     "id": 140,
     "labelId": 32,
     "languageId": 2,
-    "label": "Ở đây"
+    "label": "Chức năng thông báo"
   },
   {
     "id": 141,
     "labelId": 33,
     "languageId": 2,
-    "label": "◎Chúng tôi đang tiến hành thu rác loại lớn có mất phí. <br>Ngày giờ:  ◎Buổi chiều thứ 4 mỗi tuần (Trừ các ngày lễ)<br>                 ◎Chủ nhật tuần thứ 3 của Tháng 3・Tháng 6 ・Tháng 9 ・Tháng 12 <br>                    Từ 9 giờ sáng tới 11 giờ 30<br>Phương pháp đăng kí : Hãy đặt cuộc hẹn thu rác với trung tâm dọn rác trước đó<br><br>Nơi đăng kí :Trung tâm dọn rác        Số điện thoại : 0859-42-3803"
+    "label": "Ở đây"
   },
   {
     "id": 142,
     "labelId": 34,
     "languageId": 2,
-    "label": "Hình ảnh nơi vận chuyển trực tiếp"
+    "label": ""
   },
   {
     "id": 143,
     "labelId": 35,
     "languageId": 2,
-    "label": "Hình ảnh những loại rác không thu được"
+    "label": "◎Chúng tôi đang tiến hành thu rác loại lớn có mất phí. <br>Ngày giờ:  ◎Buổi chiều thứ 4 mỗi tuần (Trừ các ngày lễ)<br>                 ◎Chủ nhật tuần thứ 3 của Tháng 3・Tháng 6 ・Tháng 9 ・Tháng 12 <br>                    Từ 9 giờ sáng tới 11 giờ 30<br>Phương pháp đăng kí : Hãy đặt cuộc hẹn thu rác với trung tâm dọn rác trước đó<br><br>Nơi đăng kí :Trung tâm dọn rác        Số điện thoại : 0859-42-3803"
   },
   {
     "id": 144,
@@ -879,91 +879,91 @@
     "id": 146,
     "labelId": 38,
     "languageId": 2,
-    "label": "App này đã phát triển dựa trên App 5374.jp của việc tạo code for Kanazawa"
+    "label": "Mọi hỏi,thắc mắc xin vui lòng liên lạc đến (trung tâm dọn rác) phòng vệ sinh môi trường"
   },
   {
     "id": 147,
     "labelId": 39,
     "languageId": 2,
-    "label": "code for Kanazawa"
+    "label": "Về  App này "
   },
   {
     "id": 148,
     "labelId": 40,
     "languageId": 2,
-    "label": "5374(Năm ba bảy bốn).jp for Kanazawa(Github)"
+    "label": "App này đã phát triển dựa trên App 5374.jp của việc tạo code for Kanazawa"
   },
   {
     "id": 149,
     "labelId": 41,
     "languageId": 2,
-    "label": "Đóng"
+    "label": "code for Kanazawa"
   },
   {
     "id": 150,
     "labelId": 42,
     "languageId": 2,
-    "label": "Chọn khu vực・tên phố"
+    "label": "5374(Năm ba bảy bốn).jp for Kanazawa(Github)"
   },
   {
     "id": 151,
     "labelId": 43,
     "languageId": 2,
-    "label": "Chọn phân khu khu vực A/B"
+    "label": "Đóng"
   },
   {
     "id": 152,
     "labelId": 44,
     "languageId": 2,
-    "label": "Không có đoạn chú ý"
+    "label": "Chọn khu vực・tên phố"
   },
   {
     "id": 153,
     "labelId": 45,
     "languageId": 2,
-    "label": "Cảnh báo"
+    "label": "Chọn phân khu khu vực A/B"
   },
   {
     "id": 154,
     "labelId": 46,
     "languageId": 2,
-    "label": "App này không thể sử dụng được bằng Internet Explorer.\nDùng Win 10 thì hãy sử dụng Microsoft Edge, Win cũ hơn hãy sử dụng Chrome hoặc FireFox."
+    "label": "Không có đoạn chú ý"
   },
   {
     "id": 155,
     "labelId": 47,
     "languageId": 2,
-    "label": "Trình duyệt đảm bảo hoạt động"
+    "label": "Cảnh báo"
   },
   {
     "id": 156,
     "labelId": 48,
     "languageId": 2,
-    "label": ""
+    "label": "App này không thể sử dụng được bằng Internet Explorer.<br>Dùng Win 10 thì hãy sử dụng Microsoft Edge, Win cũ hơn hãy sử dụng Chrome hoặc FireFox."
   },
   {
     "id": 157,
     "labelId": 49,
     "languageId": 2,
-    "label": "Người muốn gửi tin trong trường hợp nút gửi tin không thể ấn được khi mà gửi tin\n trống thì hãy thử nhập bất kì chữ nào vào rồi gửi thử xem."
+    "label": "Trình duyệt đảm bảo hoạt động"
   },
   {
     "id": 158,
     "labelId": 50,
     "languageId": 2,
-    "label": "Hiện tại thông báo không có"
+    "label": "Microsoft Edge, Chrome, Firefox, Safari, iOS Safari"
   },
   {
     "id": 159,
     "labelId": 51,
     "languageId": 2,
-    "label": "Biểu đồ phân loại rác thì ở đây\nKết nối với trang web của thành phố Sakaiminato.Nhấn chuột vào biểu đồ phân loại rác"
+    "label": "Hiện tại thông báo không có"
   },
   {
     "id": 160,
     "labelId": 52,
     "languageId": 2,
-    "label": "Không có thông báo hiện hành."
+    "label": "Người muốn gửi tin trong trường hợp nút gửi tin không thể ấn được khi mà gửi tin trống thì hãy thử nhập bất kì chữ nào vào rồi gửi thử xem."
   },
   {
     "id": 161,
