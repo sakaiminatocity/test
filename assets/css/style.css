@@ -853,6 +853,69 @@ select {
   margin-right: 10px;
 }
 
+#main .setting-confirm {
+  width: calc(100% - 30px);
+  margin: 0 auto;
+  padding: 15px;
+}
+
+#main .setting-confirm #confirm-set-button {
+  -webkit-appearance: none;
+  color: #fff;
+  background: #3c78ff;
+  border: none;
+  border-radius: 4px;
+  padding: .75em;
+  cursor: pointer;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+#main .setting-confirm #confirm-set-button:hover {
+  opacity: .8;
+}
+
+#main .setting-confirm #confirm-set-button:disabled {
+  cursor: auto;
+  color: #aaa;
+  background: #5a5a5a;
+}
+
+#main .setting-confirm #confirm-set-button:disabled:hover {
+  opacity: 1;
+}
+
+#main .setting-confirm #confirm-set-time-label {
+  width: 100%;
+  font-size: 1.2em;
+  margin-top: 25px;
+  display: block;
+}
+
+#main .setting-confirm .confirm-set-time-wrap {
+  position: relative;
+  margin-top: 10px;
+}
+
+#main .setting-confirm .confirm-set-time-wrap::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 5px 3px 0 5px;
+  border-color: #787878 transparent transparent transparent;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 3.8em;
+  bottom: 0;
+}
+
+#main .setting-confirm #confirm-set-time {
+  border-radius: 4px;
+  padding: .5em 1.5em .5em .75em;
+}
+
 #main .notification-function {
   width: calc(100% - 30px);
   margin: 2px auto 0;

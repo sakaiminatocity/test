@@ -970,5 +970,113 @@
     "labelId": 53,
     "languageId": 2,
     "label": ""
+  },
+  {
+    "id": 162,
+    "labelId": 54,
+    "languageId": 0,
+    "label": "通知確認"
+  },
+  {
+    "id": 163,
+    "labelId": 54,
+    "languageId": 1,
+    "label": "Notification confirmation"
+  },
+  {
+    "id": 164,
+    "labelId": 54,
+    "languageId": 2,
+    "label": "Xác nhận thông báo"
+  },
+  {
+    "id": 165,
+    "labelId": 55,
+    "languageId": 0,
+    "label": "通知は有効です。"
+  },
+  {
+    "id": 166,
+    "labelId": 55,
+    "languageId": 1,
+    "label": "Notifications are valid."
+  },
+  {
+    "id": 167,
+    "labelId": 55,
+    "languageId": 2,
+    "label": "Thông báo là hợp lệ."
+  },
+  {
+    "id": 168,
+    "labelId": 56,
+    "languageId": 0,
+    "label": "通知が無効になっています。ブラウザ設定から通知を有効にしてください。"
+  },
+  {
+    "id": 169,
+    "labelId": 56,
+    "languageId": 1,
+    "label": "Notifications are disabled. Please enable notifications from your browser settings."
+  },
+  {
+    "id": 170,
+    "labelId": 56,
+    "languageId": 2,
+    "label": "Thông báo bị tắt. Vui lòng bật thông báo từ cài đặt trình duyệt của bạn."
+  },
+  {
+    "id": 171,
+    "labelId": 57,
+    "languageId": 0,
+    "label": "本日はゴミ回収の日です。"
+  },
+  {
+    "id": 172,
+    "labelId": 57,
+    "languageId": 1,
+    "label": "Today is the day of garbage collection."
+  },
+  {
+    "id": 173,
+    "labelId": 57,
+    "languageId": 2,
+    "label": "Hôm nay là ngày thu gom rác."
+  },
+  {
+    "id": 174,
+    "labelId": 58,
+    "languageId": 0,
+    "label": "新しいお知らせがあります。"
+  },
+  {
+    "id": 175,
+    "labelId": 58,
+    "languageId": 1,
+    "label": "I have a new announcement."
+  },
+  {
+    "id": 176,
+    "labelId": 58,
+    "languageId": 2,
+    "label": "Tôi có một thông báo mới."
+  },
+  {
+    "id": 177,
+    "labelId": 59,
+    "languageId": 0,
+    "label": "通知希望時間"
+  },
+  {
+    "id": 178,
+    "labelId": 59,
+    "languageId": 1,
+    "label": "Desired notification time"
+  },
+  {
+    "id": 179,
+    "labelId": 59,
+    "languageId": 2,
+    "label": "Thời gian thông báo mong muốn"
   }
 ]

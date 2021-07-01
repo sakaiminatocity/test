@@ -11,14 +11,25 @@
     <link rel="stylesheet" href="./assets/css/customize.css">
     <link rel="manifest" href="./manifest.json">
     <link rel="apple-touch-icon-precomposed" href="./img/manifest_icon-192.png">
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-messaging.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-analytics.js"></script>
     <script>
       if ('serviceWorker' in navigator) {
-          navigator.serviceWorker.register('serviceworker.js').then( registration => {
-            console.log('ServiceWorker registration successful with scope: ', registration.scope);
-          }).catch( err => {
-            console.log('ServiceWorker registration failed: ', err);
-          });
-        }
+        navigator.serviceWorker.register('serviceworker.js')
+        .then( registration => {
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          registration.onupdatefound = () => {
+            console.log('Update.');
+            registration.update();
+          }
+        }).catch( err => {
+          console.log('ServiceWorker registration failed: ', err);
+        });
+      }
+      // if ('serviceWorker' in navigator) {
+      //   navigator.serviceWorker.register('/firebase-messaging-sw.js', {scope:'/'});
+      // }
     </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142201601-1"></script>
@@ -107,10 +118,29 @@
               </address>
             </div>
           </div>
+          <div id="setting-confirm" class="setting-confirm">
+            <button id="confirm-set-button">
+              <span class="l54">通知確認</span>
+            </button>
+            <label id="confirm-set-time-label" for="confirm-set-time">
+              <span class="l59">通知希望時間</span>
+            </label>
+            <div class="confirm-set-time-wrap">
+              <select id="confirm-set-time" name="confirm-set-time">
+                <option value="0">AM 0</option>
+                <option value="1">AM 1</option>
+                <option value="2">AM 2</option>
+                <option value="3">AM 3</option>
+                <option value="4">AM 4</option>
+                <option value="5">AM 5</option>
+                <option value="6">AM 6</option>
+                <option value="7">AM 6</option>
+              </select>
+            </div>
+          </div>
           <div id="notification-function" class="notification-function">
             <p><span class="l32">お知らせ機能は</span><a href="http://www.53cal.jp/" class="l33"  target="_blank">コチラ</a></p>
             <p class="l51 notes">メール配信を希望される方は空メールを送信する際に、送信ボタンが押せない場合は、何かしらの文字を入力してからお試しください。</p>
-
           </div>
           <div id="transfer" class="transfer">
             <h2 class="l5">休日の収集・振替収集について</h2>
@@ -245,6 +275,8 @@
       <div class="close l43">閉じる</div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/dexie@latest/dist/dexie.js"></script>
     <script src="./assets/js/script.js"></script>
+    <script src="./assets/js/apps.js"></script>
   </body>
 </html>

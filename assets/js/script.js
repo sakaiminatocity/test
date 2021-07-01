@@ -21,6 +21,9 @@ $(() => {
   let notificationString = 'notificationString';
   let language = 'language';
 
+  const dbName = '5374.jp-sakaiminato';
+  const db = new Dexie(dbName);
+
   // 言語
   let lang = 0;
   // エリア設定
@@ -28,6 +31,8 @@ $(() => {
   let areaDivision = 0;
   let areaId2 = -1;
   let routineId = 99;
+  // 通知関連
+  let confirmSetTime = 0;
   // 他定数
   const today = new Date();
   // 他グローバル変数
@@ -41,12 +46,18 @@ $(() => {
   let monthList = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
   let weekList = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
+  db.version(1)
+  .stores({
+    cache: 'key, val'
+  });
+
 
   // localStrageデータ呼び出し
   function loadLocalStrage() {
     let langFlag = localStorage.getItem('lang_5374.jp-sakaiminato');
     let areaId1Flag = localStorage.getItem('areaId1_5374.jp-sakaiminato');
     let areaId2Flag = localStorage.getItem('areaId2_5374.jp-sakaiminato');
+    let confirmSetTime = parseInt(localStorage.getItem('confirmSetTime_5374.jp-sakaiminato'));
 
     if (langFlag === null) {
       let language = (window.navigator.userLanguage || window.navigator.language || window.navigator.browserLanguage).substr(0, 2);
@@ -55,9 +66,25 @@ $(() => {
       }
       areaId1 = -1;
       areaId2 = -1;
+      confirmSetTime = 6;
       localStorage.setItem('lang_5374.jp-sakaiminato', -1);
       localStorage.setItem('areaId1_5374.jp-sakaiminato', areaId1);
       localStorage.setItem('areaId2_5374.jp-sakaiminato', areaId2);
+      localStorage.setItem('confirmSetTime_5374.jp-sakaiminato', confirmSetTime);
+
+      db.cache
+      .bulkPut([
+        {key:'lang', val:lang},
+        {key:'areaId1', val:areaId1},
+        {key:'areaId2', val:areaId2},
+        {key:'confirmSetTime', val:confirmSetTime},
+      ]).catch((error)=>{
+        console.error(error);
+      });
+    
+
+      $('#confirm-set-time').val(confirmSetTime);
+
       createSelectboxAreaId1();
       if (navigator.userAgent.indexOf('msie') != -1 || navigator.userAgent.indexOf('trident') != -1) {
 
@@ -77,6 +104,11 @@ $(() => {
       } else {
         lang = parseInt(langFlag);
       }
+      if (confirmSetTime === -1) {
+        confirmSetTime = 6;
+      }
+      $('#confirm-set-time').val(confirmSetTime);
+      
       createSelectboxAreaId1();
       if (areaId1Flag === null) {
         areaId1 = -1;
@@ -223,6 +255,15 @@ $(() => {
             areaId2Box.empty();
             areaId2 = -1;
             localStorage.setItem('areaId2_5374.jp-sakaiminato', areaId2);
+
+            db.cache.put(
+              {
+                key: 'areaId2', val: areaId2
+              }
+            ).catch((error)=>{
+              console.error(error);
+            });
+
             areaId2Box.hide();
             $('.area-inquiry').hide();
           } else {
@@ -778,6 +819,8 @@ $(() => {
       $('.l50').empty().append(labels[50]);
       $('.l51').empty().append(labels[51]);
       $('.l53').empty().append(labels[53]);
+      $('.l54').empty().append(labels[54]);
+      $('.l59').empty().append(labels[59]);
     });
   }
 
@@ -792,6 +835,33 @@ $(() => {
 
   $('.navi-button').on('click', (e) => {
     $('.global-navi').slideToggle();
+  });
+
+  $('#confirm-set-button').on('click', (e)=> {
+    let labels = [];
+    let permission = Notification.permission;
+
+    $.when(
+      $.getJSON(baseUrl + labelString + '.json')
+    ).done((data_a) => {
+      let labelTable = data_a;
+
+      labelTable.forEach((labelRecord) => {
+        if (labelRecord['languageId'] === lang) {
+          labels.push(labelRecord['label']);
+        }
+      });
+      if (permission === 'granted') {
+        alert(labels[55]);
+      } else if (permission === 'denied') {
+        alert(labels[56]);
+      } else {
+        Notification.requestPermission().then(permissionSub => {
+          console.log('Notification function status: ' + permissionSub);
+        });
+      }
+    });
+    return false;
   });
 
   $('a[href^="#"]').on('click', function () {
@@ -848,6 +918,15 @@ $(() => {
     }
     localStorage.setItem('lang_5374.jp-sakaiminato', lang);
 
+    db.cache
+    .put({
+      key: 'lang', val: lang
+    })
+    .catch((error)=>{
+      console.error(error);
+    });
+
+
     loadWarning();
     loadNotification();
     // getCenterData();
@@ -858,9 +937,29 @@ $(() => {
     }
   });
 
+  $('#confirm-set-time').change((e) => {
+    confirmSetTime = parseInt($('#confirm-set-time').val());
+    localStorage.setItem('confirmSetTime_5374.jp-sakaiminato', confirmSetTime);
+    db.cache
+    .put({
+      key: 'confirmSetTime', val: confirmSetTime
+    })
+    .catch((error)=>{
+      console.error(error);
+    });
+  });
+  
+
   $('#area-id1').change((e) => {
     areaId1 = parseInt($('#area-id1').val());
     localStorage.setItem('areaId1_5374.jp-sakaiminato', areaId1);
+    db.cache
+    .put({
+      key: 'areaId1', val: areaId1
+    })
+    .catch((error)=>{
+      console.error(error);
+    });
     areaId2 = -1;
     createSelectboxAreaId2();
   });
@@ -868,6 +967,13 @@ $(() => {
   $('#area-id2').change((e) => {
     areaId2 = parseInt($('#area-id2').val());
     localStorage.setItem('areaId2_5374.jp-sakaiminato', areaId2);
+    db.cache
+    .put({
+      key: 'areaId2', val: areaId2
+    })
+    .catch((error)=>{
+      console.error(error);
+    });
     drawingCalendar();
   });
 
