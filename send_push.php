@@ -104,8 +104,7 @@ $token = '<登録トークン>';
 $server_key = '<サーバーキー>';
 
 $json = '{
-  "data":{"area": "'.$send_area_id.'", "noti": "'.$send_notification_id.'"},
-  "notification":{"title": "'.$title.'","body": "'.$body.'", "click_action": "'.$url.'"},
+  "data":{"title": "'.$title.'","body": "'.$body.'", "click_action": "'.$url.'", "area": "'.$send_area_id.'", "noti": "'.$send_notification_id.'"},
   "to": "'.$token.'"
 }';
 
@@ -126,5 +125,7 @@ curl_setopt_array($ch, array(
 ));
 
 $response = curl_exec($ch);
+
+echo $response;
 
 curl_close($ch);
